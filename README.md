@@ -1,7 +1,24 @@
 # YouTube Trending Video Analysis
-## Data Source
+## Installation
+### Modules
+pip install these modules
+- pandas: data processing
+- numpy: linear algebra
+- seaborn: data visualization
+- matplotlib: data visualization
+- re: regular expression
+- datetime: manipulate date time types of data
+- os: create folders
+- PTL: image processing
+- wordcloud: word cloud creating
+### Data Source
 [Trending YouTube Video Statistics from Kaggle](https://www.kaggle.com/datasnaek/youtube-new)    
 Focus on the US dataset
+## Project Motivation
+Through analyzing the YouTube trending videos data, I was aiming to answer these questions：
+1. What types of videos are more likely to be trending?
+2. Do descriptions or tags matter?
+3. How long does it take for a video to go viral?
 ## File Description
 ### Datasets
 - USvideos.csv   
@@ -16,7 +33,7 @@ Category names
 ### img
 Includes all images used for word cloud, and output visualizations
 
-## Insights
+## Results
 My blog on Medium:   
 [Data-Driven Tips to Make aVideo Go Viral on YouTube](https://zhaoyiw.medium.com/data-driven-tips-to-make-avideo-go-viral-on-youtube-e7117f51fc2f)
 
