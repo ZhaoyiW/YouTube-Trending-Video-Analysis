@@ -1,4 +1,4 @@
-# YouTube Trending Video Analysis
+# YouTube Trending Video Analysis   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Installation
 ### Modules
 pip install these modules
@@ -37,3 +37,8 @@ Includes all images used for word cloud, and output visualizations
 My blog on Medium:   
 [Data-Driven Tips to Make aVideo Go Viral on YouTube](https://zhaoyiw.medium.com/data-driven-tips-to-make-avideo-go-viral-on-youtube-e7117f51fc2f)
 
+## License
+This project is under [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt).
+
+## Author
+[Zhaoyi Wang](https://github.com/ZhaoyiW)
